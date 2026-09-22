@@ -1,2 +1,2 @@
 Fun Stuff!
-cool simple projects that go through multiple concepts
+cool finance computer that can add numbers throughout an interactive gui and variables that follow.
